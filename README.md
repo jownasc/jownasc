@@ -42,8 +42,10 @@ Computer Engineer graduated from UNIVESP with solid experience designing and mai
 [![Local-first](https://img.shields.io/badge/local--first-100%25-2ea44f)](https://github.com/jownasc/biblioteca-docs)
 [![Zero deps](https://img.shields.io/badge/dependencies-zero-6b5628)](https://github.com/jownasc/biblioteca-docs)
 [![Platform Windows](https://img.shields.io/badge/platform-windows-0078D6?logo=windows&logoColor=white)](https://github.com/jownasc/biblioteca-docs)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/jownasc/biblioteca-docs/blob/main/LICENSE)
 
 - **First-Principles Architecture:** Designed from the ground up without third-party frameworks, running directly on Git, PowerShell, and static web standards.
+- **Pre-PR Quality Gate:** Standardizes active HTTP contract tests and browser-level acceptance validation with deterministic evidence capture before merging code.
 - **AI Agent Orchestration:** Drastically cuts token consumption and eliminates context drift by isolating tasks into atomic specification, planning, test, and handover documents.
 - **Real-Time State Synchronization:** Automatically checks PR states via GitHub CLI (`gh`) to reconcile task completion with Git branches without manual overhead.
 
